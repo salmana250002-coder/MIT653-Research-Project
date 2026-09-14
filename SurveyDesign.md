@@ -1,6 +1,8 @@
 **Research title and rationale**
 The research topic proposed is 'AI and Machine Learning in Cybersecurity Threat Detection: Adoption, Perceived Effectiveness and Practitioner Trust'. Machine learning can be used to process network traffic, system logs, and other security data to detect suspicious patterns or behavior. Sarker et al. (2020) discuss how data-driven models can help in intrusion detection and security decisions; Shaukat et al. (2020) demonstrate the use of machine-learning techniques in a variety of cybersecurity tasks. The survey is based on the perceptions of practitioners, since use of a technical system is not necessarily a sign of trust, integration, and use of an AI-enabled detection system in organisations. According to NIST (2023), the characteristics of trustworthy AI are related to: validity, reliability, transparency, explainability, privacy, security and resilience.
 
+
+
 **1 Objectives of the survey**
 The main objective is to explore the application and evaluation of AI and machine learning in threat detection by cybersecurity and IT security professionals. The survey will:s
 • assess how much the organisation is currently using AI or machine-learning threat detection tools;
